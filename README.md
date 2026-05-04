@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :PARVEEN SULTHANA J
-Roll no :212224040233
-Date of experiment :24/04/2026
+## Name :PARVEEN SULTHANA J
+## Roll no :212224040233
+## Date of experiment :24/04/2026
 
 ## Aim:
 To Interface a Digital output (LED) to ARM development board and write a blink code 
